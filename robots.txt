@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://latorre0825-creator.github.io/sitemap.xml
